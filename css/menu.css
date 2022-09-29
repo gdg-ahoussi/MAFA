@@ -1,0 +1,32 @@
+.menu_im{
+
+    display: block;
+  margin-top : 10px;
+width: 100%;
+  
+  
+  }
+
+  .menu_div{
+    width: 79vh;
+
+  }
+
+  
+@media screen and (max-width:768px) {
+    .menu_im{
+
+        display: block;
+      margin-top : 10px;
+    width: 100%;
+      
+      
+      }
+    
+      .menu_div{
+        width: 53vh;
+    
+      }
+    
+  
+  }
